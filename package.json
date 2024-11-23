@@ -1,0 +1,9 @@
+{
+  "name": "dummy-project",
+  "version": "1.0.0",
+  "description": "Dummy project for bypassing npm install",
+  "scripts": {
+    "build": "echo 'Build script executed successfully.'"
+  },
+  "dependencies": {}
+}
